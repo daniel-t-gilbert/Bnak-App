@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.35)!important;
+}
+
+input{
+    border-radius: 10px!important;
+    box-shadow: 0 .1rem .5rem rgba(0,0,0,.15)!important;
+}
+
+button{
+    border-radius: 10px!important;
+    box-shadow: 0 .1rem .5rem rgba(0,0,0,.15)!important;
+}
